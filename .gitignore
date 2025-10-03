@@ -1,0 +1,9 @@
+Python artifacts
+pycache/
+*.pyc
+*.pyo
+*.egg-info/
+.venv
+
+Streamlit artifacts
+.streamlit/
